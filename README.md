@@ -43,8 +43,6 @@ this project was made during a **tp (travail pratique)** to strengthen my unders
 
 ## 📸 screenshots
 
-> (you can add your screenshots here)  
-> exemple :
 >
 > ![screenshot 1](https://github.com/QALLOUJ/boitemusic/blob/main/Capture%20d'%C3%A9cran%202025-04-28%20151132.png)
 >

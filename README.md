@@ -18,7 +18,7 @@ this project was made during a **tp (travail pratique)** to strengthen my unders
 
 1. **clone the repository**:
    ```bash
-   git clone https://github.com/your-username/boitemusic.git
+   git clone https://github.com/QALLOUJ/boitemusic.git
    ```
 
 2. **navigate to the project folder**:

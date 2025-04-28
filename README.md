@@ -18,7 +18,7 @@ this project was made during a **tp (travail pratique)** to strengthen my unders
 
 1. **clone the repository**:
    ```bash
-   git clone https://github.com/QALLOUJ/boitemusic.git
+   git clone https://github.com/your-username/boitemusic.git
    ```
 
 2. **navigate to the project folder**:
@@ -37,7 +37,7 @@ this project was made during a **tp (travail pratique)** to strengthen my unders
    npm run serve
    ```
 
-5. **open your browser** and go to `http://localhost:8080/`
+5. **open your browser** and go to [http://localhost:8080/](http://localhost:8080/)
 
 ---
 
@@ -52,11 +52,8 @@ this project was made during a **tp (travail pratique)** to strengthen my unders
 
 ---
 
-
-
----
-
+.
 
 ---
 
-💙 **thank you for visiting my project!**
+💙 **thank you for visiting my project! 
